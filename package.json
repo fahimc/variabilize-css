@@ -1,0 +1,22 @@
+{
+  "name": "variabilize-css",
+  "version": "1.0.0",
+  "description": "a util to convert a css stylesheet to use css variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahimc/variabilize-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahimc/variabilize-css/issues"
+  },
+  "homepage": "https://github.com/fahimc/variabilize-css#readme",
+  "devDependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
